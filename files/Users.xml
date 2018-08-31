@@ -1,0 +1,929 @@
+<object-stream>
+  <java.util.Stack serialization="custom">
+    <unserializable-parents/>
+    <vector>
+      <default>
+        <capacityIncrement>0</capacityIncrement>
+        <elementCount>3</elementCount>
+        <elementData>
+          <map>
+            <entry>
+              <long>0</long>
+              <models.Ratings>
+                <id>0</id>
+                <userId>1</userId>
+                <bookId>1</bookId>
+                <rating>3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>1</long>
+              <models.Ratings>
+                <id>1</id>
+                <userId>1</userId>
+                <bookId>1</bookId>
+                <rating>5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>2</long>
+              <models.Ratings>
+                <id>2</id>
+                <userId>2</userId>
+                <bookId>1</bookId>
+                <rating>5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>3</long>
+              <models.Ratings>
+                <id>3</id>
+                <userId>2</userId>
+                <bookId>1</bookId>
+                <rating>1</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>4</long>
+              <models.Ratings>
+                <id>4</id>
+                <userId>3</userId>
+                <bookId>1</bookId>
+                <rating>3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>5</long>
+              <models.Ratings>
+                <id>5</id>
+                <userId>4</userId>
+                <bookId>1</bookId>
+                <rating>5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>6</long>
+              <models.Ratings>
+                <id>6</id>
+                <userId>5</userId>
+                <bookId>1</bookId>
+                <rating>3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>7</long>
+              <models.Ratings>
+                <id>7</id>
+                <userId>1</userId>
+                <bookId>2</bookId>
+                <rating>5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>8</long>
+              <models.Ratings>
+                <id>8</id>
+                <userId>2</userId>
+                <bookId>2</bookId>
+                <rating>3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>9</long>
+              <models.Ratings>
+                <id>9</id>
+                <userId>2</userId>
+                <bookId>2</bookId>
+                <rating>1</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>10</long>
+              <models.Ratings>
+                <id>10</id>
+                <userId>3</userId>
+                <bookId>2</bookId>
+                <rating>-5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>11</long>
+              <models.Ratings>
+                <id>11</id>
+                <userId>5</userId>
+                <bookId>2</bookId>
+                <rating>1</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>12</long>
+              <models.Ratings>
+                <id>12</id>
+                <userId>1</userId>
+                <bookId>3</bookId>
+                <rating>3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>13</long>
+              <models.Ratings>
+                <id>13</id>
+                <userId>2</userId>
+                <bookId>3</bookId>
+                <rating>3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>14</long>
+              <models.Ratings>
+                <id>14</id>
+                <userId>3</userId>
+                <bookId>3</bookId>
+                <rating>1</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>15</long>
+              <models.Ratings>
+                <id>15</id>
+                <userId>3</userId>
+                <bookId>3</bookId>
+                <rating>-3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>16</long>
+              <models.Ratings>
+                <id>16</id>
+                <userId>4</userId>
+                <bookId>3</bookId>
+                <rating>5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>17</long>
+              <models.Ratings>
+                <id>17</id>
+                <userId>5</userId>
+                <bookId>3</bookId>
+                <rating>1</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>18</long>
+              <models.Ratings>
+                <id>18</id>
+                <userId>2</userId>
+                <bookId>4</bookId>
+                <rating>-5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>19</long>
+              <models.Ratings>
+                <id>19</id>
+                <userId>3</userId>
+                <bookId>4</bookId>
+                <rating>-3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>20</long>
+              <models.Ratings>
+                <id>20</id>
+                <userId>3</userId>
+                <bookId>4</bookId>
+                <rating>1</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>21</long>
+              <models.Ratings>
+                <id>21</id>
+                <userId>4</userId>
+                <bookId>4</bookId>
+                <rating>1</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>22</long>
+              <models.Ratings>
+                <id>22</id>
+                <userId>4</userId>
+                <bookId>4</bookId>
+                <rating>5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>23</long>
+              <models.Ratings>
+                <id>23</id>
+                <userId>4</userId>
+                <bookId>4</bookId>
+                <rating>5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>24</long>
+              <models.Ratings>
+                <id>24</id>
+                <userId>5</userId>
+                <bookId>4</bookId>
+                <rating>-5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>25</long>
+              <models.Ratings>
+                <id>25</id>
+                <userId>5</userId>
+                <bookId>4</bookId>
+                <rating>-5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>26</long>
+              <models.Ratings>
+                <id>26</id>
+                <userId>1</userId>
+                <bookId>5</bookId>
+                <rating>3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>27</long>
+              <models.Ratings>
+                <id>27</id>
+                <userId>1</userId>
+                <bookId>5</bookId>
+                <rating>-3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>28</long>
+              <models.Ratings>
+                <id>28</id>
+                <userId>3</userId>
+                <bookId>5</bookId>
+                <rating>-5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>29</long>
+              <models.Ratings>
+                <id>29</id>
+                <userId>3</userId>
+                <bookId>5</bookId>
+                <rating>-5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>30</long>
+              <models.Ratings>
+                <id>30</id>
+                <userId>5</userId>
+                <bookId>5</bookId>
+                <rating>-3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>31</long>
+              <models.Ratings>
+                <id>31</id>
+                <userId>4</userId>
+                <bookId>6</bookId>
+                <rating>1</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>32</long>
+              <models.Ratings>
+                <id>32</id>
+                <userId>1</userId>
+                <bookId>7</bookId>
+                <rating>1</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>33</long>
+              <models.Ratings>
+                <id>33</id>
+                <userId>2</userId>
+                <bookId>7</bookId>
+                <rating>3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>34</long>
+              <models.Ratings>
+                <id>34</id>
+                <userId>3</userId>
+                <bookId>7</bookId>
+                <rating>-5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>35</long>
+              <models.Ratings>
+                <id>35</id>
+                <userId>4</userId>
+                <bookId>7</bookId>
+                <rating>3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>36</long>
+              <models.Ratings>
+                <id>36</id>
+                <userId>5</userId>
+                <bookId>7</bookId>
+                <rating>3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>37</long>
+              <models.Ratings>
+                <id>37</id>
+                <userId>3</userId>
+                <bookId>8</bookId>
+                <rating>5</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>38</long>
+              <models.Ratings>
+                <id>38</id>
+                <userId>4</userId>
+                <bookId>8</bookId>
+                <rating>3</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>39</long>
+              <models.Ratings>
+                <id>39</id>
+                <userId>5</userId>
+                <bookId>8</bookId>
+                <rating>1</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>40</long>
+              <models.Ratings>
+                <id>40</id>
+                <userId>1</userId>
+                <bookId>9</bookId>
+                <rating>1</rating>
+              </models.Ratings>
+            </entry>
+            <entry>
+              <long>41</long>
+              <models.Ratings>
+                <id>41</id>
+                <userId>5</userId>
+                <bookId>9</bookId>
+                <rating>-5</rating>
+              </models.Ratings>
+            </entry>
+          </map>
+          <map>
+            <entry>
+              <long>0</long>
+              <models.Books>
+                <id>0</id>
+                <title>Red Rising </title>
+                <year>23-Feb-2017</year>
+                <url>https://www.barnesandnoble.com/w/red-rising-pierce-brown/1110614785;jsessionid=D38CB8A159DF7F5062FB9CBE617160EB.prodny_store01-atgap06?ean=9781984819314#/</url>
+                <ratingSystem>0.0</ratingSystem>
+                <theBooksRatings/>
+              </models.Books>
+            </entry>
+            <entry>
+              <long>1</long>
+              <models.Books>
+                <id>1</id>
+                <title>IT</title>
+                <year>25-Jul-2017</year>
+                <url>https://www.easons.com/it-stephen-king-9781473666948</url>
+                <ratingSystem>25.0</ratingSystem>
+                <theBooksRatings>
+                  <entry>
+                    <long>0</long>
+                    <models.Ratings reference="../../../../../../map/entry/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>1</long>
+                    <models.Ratings reference="../../../../../../map/entry[2]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>2</long>
+                    <models.Ratings reference="../../../../../../map/entry[3]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>3</long>
+                    <models.Ratings reference="../../../../../../map/entry[4]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>4</long>
+                    <models.Ratings reference="../../../../../../map/entry[5]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>5</long>
+                    <models.Ratings reference="../../../../../../map/entry[6]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>6</long>
+                    <models.Ratings reference="../../../../../../map/entry[7]/models.Ratings"/>
+                  </entry>
+                </theBooksRatings>
+              </models.Books>
+            </entry>
+            <entry>
+              <long>2</long>
+              <models.Books>
+                <id>2</id>
+                <title>HARRY POTTER AND THE CURSED CHILD</title>
+                <year>01-Jul-2017</year>
+                <url>https://www.easons.com/harry-potter-and-the-cursed-child-jk-rowling-9780751565362</url>
+                <ratingSystem>5.0</ratingSystem>
+                <theBooksRatings>
+                  <entry>
+                    <long>7</long>
+                    <models.Ratings reference="../../../../../../map/entry[8]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>8</long>
+                    <models.Ratings reference="../../../../../../map/entry[9]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>9</long>
+                    <models.Ratings reference="../../../../../../map/entry[10]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>10</long>
+                    <models.Ratings reference="../../../../../../map/entry[11]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>11</long>
+                    <models.Ratings reference="../../../../../../map/entry[12]/models.Ratings"/>
+                  </entry>
+                </theBooksRatings>
+              </models.Books>
+            </entry>
+            <entry>
+              <long>3</long>
+              <models.Books>
+                <id>3</id>
+                <title>Age of War</title>
+                <year>03-Jul-2017</year>
+                <url>https://www.barnesandnoble.com/w/age-of-war-michael-j-sullivan/1128372155?ean=9781101965399</url>
+                <ratingSystem>10.0</ratingSystem>
+                <theBooksRatings>
+                  <entry>
+                    <long>16</long>
+                    <models.Ratings reference="../../../../../../map/entry[17]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>17</long>
+                    <models.Ratings reference="../../../../../../map/entry[18]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>12</long>
+                    <models.Ratings reference="../../../../../../map/entry[13]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>13</long>
+                    <models.Ratings reference="../../../../../../map/entry[14]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>14</long>
+                    <models.Ratings reference="../../../../../../map/entry[15]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>15</long>
+                    <models.Ratings reference="../../../../../../map/entry[16]/models.Ratings"/>
+                  </entry>
+                </theBooksRatings>
+              </models.Books>
+            </entry>
+            <entry>
+              <long>4</long>
+              <models.Books>
+                <id>4</id>
+                <title>Lost Gods</title>
+                <year>12-Jul-2017</year>
+                <url>https://www.barnesandnoble.com/w/lost-gods-micah-yongo/1126718072?ean=9780857667373#/</url>
+                <ratingSystem>-6.0</ratingSystem>
+                <theBooksRatings>
+                  <entry>
+                    <long>18</long>
+                    <models.Ratings reference="../../../../../../map/entry[19]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>19</long>
+                    <models.Ratings reference="../../../../../../map/entry[20]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>20</long>
+                    <models.Ratings reference="../../../../../../map/entry[21]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>21</long>
+                    <models.Ratings reference="../../../../../../map/entry[22]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>22</long>
+                    <models.Ratings reference="../../../../../../map/entry[23]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>23</long>
+                    <models.Ratings reference="../../../../../../map/entry[24]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>24</long>
+                    <models.Ratings reference="../../../../../../map/entry[25]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>25</long>
+                    <models.Ratings reference="../../../../../../map/entry[26]/models.Ratings"/>
+                  </entry>
+                </theBooksRatings>
+              </models.Books>
+            </entry>
+            <entry>
+              <long>5</long>
+              <models.Books>
+                <id>5</id>
+                <title>Star Wars: The Rebel Files</title>
+                <year>22-Jan-2017</year>
+                <url>https://www.barnesandnoble.com/w/star-wars-daniel-wallace/1126944253?ean=9781452170145#/)</url>
+                <ratingSystem>-13.0</ratingSystem>
+                <theBooksRatings>
+                  <entry>
+                    <long>26</long>
+                    <models.Ratings reference="../../../../../../map/entry[27]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>27</long>
+                    <models.Ratings reference="../../../../../../map/entry[28]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>28</long>
+                    <models.Ratings reference="../../../../../../map/entry[29]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>29</long>
+                    <models.Ratings reference="../../../../../../map/entry[30]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>30</long>
+                    <models.Ratings reference="../../../../../../map/entry[31]/models.Ratings"/>
+                  </entry>
+                </theBooksRatings>
+              </models.Books>
+            </entry>
+            <entry>
+              <long>6</long>
+              <models.Books>
+                <id>6</id>
+                <title>Thrawn: Alliances (Star Wars)</title>
+                <year>10-Feb-2017</year>
+                <url>https://www.barnesandnoble.com/w/thrawn-timothy-zahn/1127203904?ean=9781984817617#/</url>
+                <ratingSystem>1.0</ratingSystem>
+                <theBooksRatings>
+                  <entry>
+                    <long>31</long>
+                    <models.Ratings reference="../../../../../../map/entry[32]/models.Ratings"/>
+                  </entry>
+                </theBooksRatings>
+              </models.Books>
+            </entry>
+            <entry>
+              <long>7</long>
+              <models.Books>
+                <id>7</id>
+                <title>Redemption's Blade: After The War</title>
+                <year>12-Oct-2017</year>
+                <url>https://www.barnesandnoble.com/w/redemptions-blade-adrian-tchaikovsky/1127273337?ean=9781781085790#/</url>
+                <ratingSystem>5.0</ratingSystem>
+                <theBooksRatings>
+                  <entry>
+                    <long>32</long>
+                    <models.Ratings reference="../../../../../../map/entry[33]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>33</long>
+                    <models.Ratings reference="../../../../../../map/entry[34]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>34</long>
+                    <models.Ratings reference="../../../../../../map/entry[35]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>35</long>
+                    <models.Ratings reference="../../../../../../map/entry[36]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>36</long>
+                    <models.Ratings reference="../../../../../../map/entry[37]/models.Ratings"/>
+                  </entry>
+                </theBooksRatings>
+              </models.Books>
+            </entry>
+            <entry>
+              <long>8</long>
+              <models.Books>
+                <id>8</id>
+                <title>Record of a Spaceborn Few</title>
+                <year>03-Jan-2017</year>
+                <url>https://www.barnesandnoble.com/w/record-of-a-spaceborn-few-becky-chambers/1127088154?ean=9780062699220</url>
+                <ratingSystem>9.0</ratingSystem>
+                <theBooksRatings>
+                  <entry>
+                    <long>37</long>
+                    <models.Ratings reference="../../../../../../map/entry[38]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>38</long>
+                    <models.Ratings reference="../../../../../../map/entry[39]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>39</long>
+                    <models.Ratings reference="../../../../../../map/entry[40]/models.Ratings"/>
+                  </entry>
+                </theBooksRatings>
+              </models.Books>
+            </entry>
+            <entry>
+              <long>9</long>
+              <models.Books>
+                <id>9</id>
+                <title>Kill the Farm Boy: The Tales of Pell</title>
+                <year>01-Feb-2017</year>
+                <url>https://www.barnesandnoble.com/w/kill-the-farm-boy-kevin-hearne/1127329861?ean=9781524797744#/</url>
+                <ratingSystem>-4.0</ratingSystem>
+                <theBooksRatings>
+                  <entry>
+                    <long>40</long>
+                    <models.Ratings reference="../../../../../../map/entry[41]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>41</long>
+                    <models.Ratings reference="../../../../../../map/entry[42]/models.Ratings"/>
+                  </entry>
+                </theBooksRatings>
+              </models.Books>
+            </entry>
+          </map>
+          <map>
+            <entry>
+              <long>1</long>
+              <models.Users>
+                <id>1</id>
+                <firstName>Mathew</firstName>
+                <lastName>Nolan</lastName>
+                <age>29</age>
+                <gender>M</gender>
+                <occupation>technician</occupation>
+                <role>default</role>
+                <userRatings>
+                  <entry>
+                    <long>0</long>
+                    <models.Ratings reference="../../../../../../map/entry/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>32</long>
+                    <models.Ratings reference="../../../../../../map/entry[33]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>1</long>
+                    <models.Ratings reference="../../../../../../map/entry[2]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>7</long>
+                    <models.Ratings reference="../../../../../../map/entry[8]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>40</long>
+                    <models.Ratings reference="../../../../../../map/entry[41]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>26</long>
+                    <models.Ratings reference="../../../../../../map/entry[27]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>27</long>
+                    <models.Ratings reference="../../../../../../map/entry[28]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>12</long>
+                    <models.Ratings reference="../../../../../../map/entry[13]/models.Ratings"/>
+                  </entry>
+                </userRatings>
+              </models.Users>
+            </entry>
+            <entry>
+              <long>2</long>
+              <models.Users>
+                <id>2</id>
+                <firstName>Colleen</firstName>
+                <lastName>Travis</lastName>
+                <age>22</age>
+                <gender>F</gender>
+                <occupation>other</occupation>
+                <role>default</role>
+                <userRatings>
+                  <entry>
+                    <long>33</long>
+                    <models.Ratings reference="../../../../../../map/entry[34]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>2</long>
+                    <models.Ratings reference="../../../../../../map/entry[3]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>18</long>
+                    <models.Ratings reference="../../../../../../map/entry[19]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>3</long>
+                    <models.Ratings reference="../../../../../../map/entry[4]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>8</long>
+                    <models.Ratings reference="../../../../../../map/entry[9]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>9</long>
+                    <models.Ratings reference="../../../../../../map/entry[10]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>13</long>
+                    <models.Ratings reference="../../../../../../map/entry[14]/models.Ratings"/>
+                  </entry>
+                </userRatings>
+              </models.Users>
+            </entry>
+            <entry>
+              <long>3</long>
+              <models.Users>
+                <id>3</id>
+                <firstName>Kevin</firstName>
+                <lastName>Roberson</lastName>
+                <age>30</age>
+                <gender>M</gender>
+                <occupation>writer</occupation>
+                <role>default</role>
+                <userRatings>
+                  <entry>
+                    <long>34</long>
+                    <models.Ratings reference="../../../../../../map/entry[35]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>19</long>
+                    <models.Ratings reference="../../../../../../map/entry[20]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>4</long>
+                    <models.Ratings reference="../../../../../../map/entry[5]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>20</long>
+                    <models.Ratings reference="../../../../../../map/entry[21]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>37</long>
+                    <models.Ratings reference="../../../../../../map/entry[38]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>10</long>
+                    <models.Ratings reference="../../../../../../map/entry[11]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>28</long>
+                    <models.Ratings reference="../../../../../../map/entry[29]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>29</long>
+                    <models.Ratings reference="../../../../../../map/entry[30]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>14</long>
+                    <models.Ratings reference="../../../../../../map/entry[15]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>15</long>
+                    <models.Ratings reference="../../../../../../map/entry[16]/models.Ratings"/>
+                  </entry>
+                </userRatings>
+              </models.Users>
+            </entry>
+            <entry>
+              <long>4</long>
+              <models.Users>
+                <id>4</id>
+                <firstName>Miguel</firstName>
+                <lastName>Cohen</lastName>
+                <age>35</age>
+                <gender>M</gender>
+                <occupation>technician</occupation>
+                <role>default</role>
+                <userRatings>
+                  <entry>
+                    <long>16</long>
+                    <models.Ratings reference="../../../../../../map/entry[17]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>35</long>
+                    <models.Ratings reference="../../../../../../map/entry[36]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>5</long>
+                    <models.Ratings reference="../../../../../../map/entry[6]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>21</long>
+                    <models.Ratings reference="../../../../../../map/entry[22]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>22</long>
+                    <models.Ratings reference="../../../../../../map/entry[23]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>38</long>
+                    <models.Ratings reference="../../../../../../map/entry[39]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>23</long>
+                    <models.Ratings reference="../../../../../../map/entry[24]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>31</long>
+                    <models.Ratings reference="../../../../../../map/entry[32]/models.Ratings"/>
+                  </entry>
+                </userRatings>
+              </models.Users>
+            </entry>
+            <entry>
+              <long>5</long>
+              <models.Users>
+                <id>5</id>
+                <firstName>Celine</firstName>
+                <lastName>Henning</lastName>
+                <age>41</age>
+                <gender>F</gender>
+                <occupation>other</occupation>
+                <role>admin</role>
+                <userRatings>
+                  <entry>
+                    <long>17</long>
+                    <models.Ratings reference="../../../../../../map/entry[18]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>36</long>
+                    <models.Ratings reference="../../../../../../map/entry[37]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>6</long>
+                    <models.Ratings reference="../../../../../../map/entry[7]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>39</long>
+                    <models.Ratings reference="../../../../../../map/entry[40]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>24</long>
+                    <models.Ratings reference="../../../../../../map/entry[25]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>25</long>
+                    <models.Ratings reference="../../../../../../map/entry[26]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>41</long>
+                    <models.Ratings reference="../../../../../../map/entry[42]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>11</long>
+                    <models.Ratings reference="../../../../../../map/entry[12]/models.Ratings"/>
+                  </entry>
+                  <entry>
+                    <long>30</long>
+                    <models.Ratings reference="../../../../../../map/entry[31]/models.Ratings"/>
+                  </entry>
+                </userRatings>
+              </models.Users>
+            </entry>
+          </map>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+        </elementData>
+      </default>
+    </vector>
+  </java.util.Stack>
+</object-stream>
